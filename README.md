@@ -22,4 +22,4 @@ Retrieved from Alex Krizhevsky's website: https://www.cs.toronto.edu/~kriz/index
   4. Confusion Matrix
   5. Measures report
 ## 5. Results
-Please view the code [here](https://github.com/eatingyeh/Objects_Classifiers/blob/main/Final%20Project_Yi%20Ting%20Yeh.ipynb) for results and more details.
+Please view the code [here](https://github.com/eatingyeh/Objects_Classifiers/blob/main/Object%20Detection%20Classifier_Yi-Ting%20Yeh.ipynb) for results and more details.
