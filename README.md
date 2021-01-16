@@ -9,7 +9,7 @@ Class labels: 'Airplane', 'Automobile', 'Bird', 'Cat', 'Deer', 'Dog', 'Frog', 'H
 Alex Krizhevsky. (2009). *Learning Multiple Layers of Features from Tiny Images.*
 Retrieved from Alex Krizhevsky's website: https://www.cs.toronto.edu/~kriz/index.html
 ## 3. Tools and Algorithms
-- Convolutional Neural Networks : This algorithm is also known as CNN. And it is a deep learning algorithm that can take images as inputs.
+- Convolutional Neural Networks : Also known as CNN. And it is a deep learning algorithm that can take images as inputs.
 - Keras : This is a higher level library that provides a Python interface for artificial neural networks. The purpose of keras is to streamline the process of building those networks.
 ## 4. Procedure
 - Data Preprocessing
